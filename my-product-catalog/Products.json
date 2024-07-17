@@ -1,0 +1,199 @@
+[
+  {
+    "code": 1,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "20mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 5,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 2,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "25mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 5,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 3,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "32mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 5,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 4,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "40mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 5,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 5,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "50mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 2,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 6,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "60mm"
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 1,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 7,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "75mm"
+      },
+      {
+        "key": "taq",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 1,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 8,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "85mm"
+      },
+      {
+        "key": "taq",
+        "value": true
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 1,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  },
+  {
+    "code": 9,
+    "name": "REGISTRO DE ESFERA SOLDA PVC PREDIAL MARROM",
+    "details": [
+      {
+        "key": "bitola",
+        "value": "110mm"
+      },
+      {
+        "key": "taq",
+        "value": true
+      },
+      {
+        "key": "var",
+        "value": true
+      },
+      {
+        "key": "garantia",
+        "value": "10A"
+      }
+    ],
+    "emb": 1,
+    "category": "construction",
+    "image": "/REGISTRO_DE_ESFERA.png"
+  }
+]
