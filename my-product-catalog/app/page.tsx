@@ -16,7 +16,7 @@ const Home = () => {
       <header className='w-full bg-red-500 p-4 text-white flex items-center justify-center font-bold text-lg'>
         <h1>Product Catalog</h1>
       </header>
-      <div className='grid grid-cols-3 gap-2 px-4 py-2 container max-w-[100vw] w-full'>
+      <div className='grid md:grid-cols-3 grid-cols-1 gap-2 px-4 py-2 container max-w-[100vw] w-full'>
         {products.map((product) => (
           <Product key={product.code} className='flex flex-col'>
             <ProductHeader className='flex flex-col items-center'>
